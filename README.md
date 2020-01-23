@@ -1,6 +1,4 @@
 # moxysolve
-An experimental algorithm meant to solve the algorithm between any input/output
-
 Some people say it can't be done, I say it can be turned into a SaaS product. A person's belief is their greatest limiting factor to accomplishing anything, no matter how intelligent.
 
 ## Problem 
