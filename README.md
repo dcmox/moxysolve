@@ -1,6 +1,9 @@
 # moxysolve
 Some people say it can't be done, I say it can be turned into a SaaS product. A person's belief is their greatest limiting factor to accomplishing anything, no matter how intelligent.
 
+## Related
+* MoxyMapper [Link](https://github.com/dcmox/moxymapper) - attempts to create JSON documents from an input and associated output.
+
 ## Problem 
 Given a set of inputs and an associated set of outputs, determine the rules/patterns (algorithm) to re-create the output.
 
