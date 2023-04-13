@@ -7,6 +7,9 @@ Given a set of inputs and an associated set of outputs, determine the rules/patt
 ## Solution
 An AI platform that can learn and reproduce algorithms that conform to the input/output data.
 
+***Update: Looks like ChatGPT can now do this***
+![ChatGPT can now do this](chatgpt-conversion.jpg)
+
 ## Use Case
 Convert data from one format to another without having to write any code. Just provide sample input data and output data and have mapping logic generated for you!
 
